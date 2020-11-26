@@ -1,25 +1,5 @@
 {
   "categories": [
-    {
-      "name": "news",
-      "slug": "news"
-    },
-    {
-      "name": "tech",
-      "slug": "tech"
-    },
-    {
-      "name": "food",
-      "slug": "food"
-    },
-    {
-      "name": "nature",
-      "slug": "nature"
-    },
-    {
-      "name": "story",
-      "slug": "story"
-    }
   ],
   "homepage": {
     "seo": {
