@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "name": "news",
+      "slug": "news"
+    },
+    {
+      "name": "tech",
+      "slug": "tech"
+    },
+    {
+      "name": "food",
+      "slug": "food"
+    },
+    {
+      "name": "nature",
+      "slug": "nature"
+    },
+    {
+      "name": "story",
+      "slug": "story"
+    }
+  ],
+  "homepage": {
+    "seo": {
+      "metaTitle": "My personal Strapi blog",
+      "metaDescription": "Discover my SEO friendly blog built with Strapi.",
+      "shareImage": null
+    },
+    "hero": {
+      "title": "My blog"
+    }
+  },
+  "writers": [
+    {
+      "name": "David Doe",
+      "email": "daviddoe@strapi.io",
+      "picture": null
+    },
+    {
+      "name": "Sarah Baker",
+      "email": "sarahbaker@strapi.io",
+      "picture": null
+    }
+  ],
+  "articles": [
+  ],
+  "global": {
+    "siteName":"Strapi Blog",
+    "defaultSeo":{
+      "metaTitle":"Page",
+      "metaDescription":"A blog made with Strapi",
+      "shareImage":null
+    },
+    "favicon":null
+  }
+}
